@@ -62,7 +62,7 @@ public class SphereChanger : MonoBehaviour {
         else
         {
             //No fader, so just swap the camera position
-            if (nextSphere.name == "CubeRoom")
+            if (nextSphere.name == "CubeRoom Variant")
             {
                 if (videoPlayer != null)
                 {
